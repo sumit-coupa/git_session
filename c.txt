@@ -1,2 +1,5 @@
-This is the third commit.
+
 This is the line added by Nishita.
+This is added by Sumit.
+This is the line added by Nishita.
+
